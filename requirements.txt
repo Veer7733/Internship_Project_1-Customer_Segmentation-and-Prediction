@@ -1,0 +1,7 @@
+numpy 
+pandas
+seaborn
+matplotlib
+sqlite3
+warnings
+sklearn
